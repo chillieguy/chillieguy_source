@@ -13,8 +13,10 @@ function getTheme(checked) {
 function toggleTheme(theme) {
   switch (theme) {
     case THEME.LIGHT: {
-      Dom.addClassToBody(THEME.LIGHT)
-      Dom.removeClassToBody(THEME.DARK)
+      Dom.addClassToBody(THEME.DARK)
+      Dom.removeClassToBody(THEME.LIGHT)
+      // Dom.addClassToBody(THEME.LIGHT)
+      // Dom.removeClassToBody(THEME.DARK)
       break
     }
     case THEME.DARK: {

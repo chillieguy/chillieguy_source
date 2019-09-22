@@ -3,6 +3,6 @@ export const CATEGORY_TYPE = {
 }
 
 export const THEME = {
-  LIGHT: 'light',
   DARK: 'dark',
+  LIGHT: 'light',
 }
