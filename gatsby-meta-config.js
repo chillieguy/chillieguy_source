@@ -14,7 +14,7 @@ module.exports = {
   keywords: [`blog`, `100 Day of Code`, 'swift', 'iOS'],
   comment: {
     disqusShortName: '', // Your disqus-short-name. check disqus.com.
-    utterances: '', // Your repository for archive comment
+    utterances: 'chillieguy/Chillieguy', // Your repository for archive comment
   },
   configs: {
     countOfInitialPost: 10, // Config your initial count of post
@@ -25,5 +25,5 @@ module.exports = {
   share: {
     facebookAppId: '', // Add facebookAppId for using facebook share feature v3.2
   },
-  ga: '', // Add your google analytics tranking ID
+  ga: 'UA-2381718-51', // Add your google analytics tranking ID
 }
