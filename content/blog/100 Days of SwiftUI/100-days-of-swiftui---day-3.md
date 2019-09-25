@@ -1,7 +1,7 @@
 ---
 title: 100 Days of SwiftUI - Day 3
 date: 2019-09-25 04:09:57
-category: 100 days of swiftui
+category: 100 days of SwiftUI
 ---
 
 ## Day 3

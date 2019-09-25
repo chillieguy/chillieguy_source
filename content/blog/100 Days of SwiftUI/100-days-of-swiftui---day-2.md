@@ -1,7 +1,7 @@
 ---
 title: 100 Days of SwiftUI - Day 2
 date: 2019-09-24 05:09:06
-category: 100 days of swiftui
+category: 100 Days of SwiftUI
 ---
 
 ## Day 2
