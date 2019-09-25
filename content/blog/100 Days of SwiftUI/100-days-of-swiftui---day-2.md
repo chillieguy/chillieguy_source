@@ -4,7 +4,7 @@ date: 2019-09-24 05:09:06
 category: 100 days of swiftui
 ---
 
-## Day 1
+## Day 2
 ### 100 Days of SwiftUI
 
 I made it two days. 😀  Not quite to making it a habit.
