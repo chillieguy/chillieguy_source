@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Chuck Underwood</title>
+    <description>My little corner of the web.  I make things with Swift.
+</description>
+    <link>http://localhost:4000/centrarium/</link>
+    <atom:link href="http://localhost:4000/centrarium/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Fri, 27 Sep 2019 21:32:04 -0700</pubDate>
+    <lastBuildDate>Fri, 27 Sep 2019 21:32:04 -0700</lastBuildDate>
+    <generator>Jekyll v3.8.6</generator>
+    
+      <item>
+        <title>100 Days of SwiftUI - Day 5</title>
+        <description>&lt;h2 id=&quot;day-5&quot;&gt;Day 5&lt;/h2&gt; &lt;h3 id=&quot;100-days-of-swiftui&quot;&gt;100 Days of SwiftUI&lt;/h3&gt; &lt;p&gt;I learned two new things about functions today during Day 5 of &lt;a href=&quot;https://www.hackingwithswift.com/100/swiftui&quot;&gt;100 Days of SwiftUI&lt;/a&gt;.&lt;/p&gt; &lt;p&gt;Variadic functions allow for mutliple...</description>
+        <pubDate>Fri, 27 Sep 2019 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000/centrarium/100-days-of-swiftui/2019/09/27/day-5-100-days-of-swiftui.html</link>
+        <guid isPermaLink="true">http://localhost:4000/centrarium/100-days-of-swiftui/2019/09/27/day-5-100-days-of-swiftui.html</guid>
+        
+        
+        <category>100-Days-of-SwiftUI</category>
+        
+      </item>
+    
+      <item>
+        <title>100 Days of SwiftUI - Day 4</title>
+        <description>&lt;h2 id=&quot;day-4&quot;&gt;Day 4&lt;/h2&gt; &lt;h3 id=&quot;100-days-of-swiftui&quot;&gt;100 Days of SwiftUI&lt;/h3&gt; &lt;p&gt;Finished up Day 4. All of about loops.&lt;/p&gt; &lt;p&gt;Learned how to label an outside loop so we can exit nested loops at...</description>
+        <pubDate>Thu, 26 Sep 2019 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000/centrarium/100-days-of-swiftui/2019/09/26/day-4-100-days-of-swiftui.html</link>
+        <guid isPermaLink="true">http://localhost:4000/centrarium/100-days-of-swiftui/2019/09/26/day-4-100-days-of-swiftui.html</guid>
+        
+        
+        <category>100-Days-of-SwiftUI</category>
+        
+      </item>
+    
+      <item>
+        <title>100 Days of SwiftUI - Day 3</title>
+        <description>&lt;h2 id=&quot;day-3&quot;&gt;Day 3&lt;/h2&gt; &lt;h3 id=&quot;100-days-of-swiftui&quot;&gt;100 Days of SwiftUI&lt;/h3&gt; &lt;p&gt;Day 3 was &lt;a href=&quot;https://www.hackingwithswift.com/100/3&quot;&gt;Operators and Conditions&lt;/a&gt;. Ten one minute videos with ten tests to make sure that you understand the content....</description>
+        <pubDate>Wed, 25 Sep 2019 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000/centrarium/100-days-of-swiftui/2019/09/25/day-3-100-days-of-swiftui.html</link>
+        <guid isPermaLink="true">http://localhost:4000/centrarium/100-days-of-swiftui/2019/09/25/day-3-100-days-of-swiftui.html</guid>
+        
+        
+        <category>100-Days-of-SwiftUI</category>
+        
+      </item>
+    
+      <item>
+        <title>100 Days of SwiftUI - Day 2</title>
+        <description>&lt;h2 id=&quot;day-2&quot;&gt;Day 2&lt;/h2&gt; &lt;h3 id=&quot;100-days-of-swiftui&quot;&gt;100 Days of SwiftUI&lt;/h3&gt; &lt;p&gt;I made it two days. 😀 Not quite to making it a habit.&lt;/p&gt; &lt;p&gt;Today it the lesson was all about &lt;a href=&quot;https://www.hackingwithswift.com/100/swiftui/2&quot;&gt;complex...</description>
+        <pubDate>Tue, 24 Sep 2019 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000/centrarium/100-days-of-swiftui/2019/09/24/day-2-100-days-of-swiftui.html</link>
+        <guid isPermaLink="true">http://localhost:4000/centrarium/100-days-of-swiftui/2019/09/24/day-2-100-days-of-swiftui.html</guid>
+        
+        
+        <category>100-Days-of-SwiftUI</category>
+        
+      </item>
+    
+      <item>
+        <title>100 Days of SwiftUI - Day 1</title>
+        <description>&lt;h2 id=&quot;day-1&quot;&gt;Day 1&lt;/h2&gt; &lt;h3 id=&quot;100-days-of-swiftui&quot;&gt;100 Days of SwiftUI&lt;/h3&gt; &lt;p&gt;Today marks the 100 days until the end of the year. This will be the journal of my adventure.&lt;/p&gt; &lt;p&gt;While I have...</description>
+        <pubDate>Mon, 23 Sep 2019 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000/centrarium/100-days-of-swiftui/2019/09/23/day-1-100-days-of-swift.html</link>
+        <guid isPermaLink="true">http://localhost:4000/centrarium/100-days-of-swiftui/2019/09/23/day-1-100-days-of-swift.html</guid>
+        
+        
+        <category>100-Days-of-SwiftUI</category>
+        
+      </item>
+    
+      <item>
+        <title>The Adventure Begins</title>
+        <description>&lt;h2 id=&quot;the-adventure-begins&quot;&gt;The Adventure Begins&lt;/h2&gt; &lt;p&gt;This will be my little corner of the internet to chronicle my journey.&lt;/p&gt; &lt;p&gt;At first I will be using this blog to talk about the last...</description>
+        <pubDate>Sun, 22 Sep 2019 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000/centrarium/general/2019/09/22/first-post.html</link>
+        <guid isPermaLink="true">http://localhost:4000/centrarium/general/2019/09/22/first-post.html</guid>
+        
+        
+        <category>General</category>
+        
+      </item>
+    
+  </channel>
+</rss>
